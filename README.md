@@ -13,17 +13,25 @@
 ### Comparecimento 
 
 5 - Como se mede a taxa de abstenção? (evolução no tempo)?
+
 6 - A taxa de comparecimento no Brasil e em outras democracias
+
 7 - Qual é o perfil social de quem não vai votar?
+
 8 - Qual é o perfil de quem justifica o voto?
+
 9 - Quem não iria votar se o voto não fosse obrigatório?
+
 10 - Existe algum fator territorial associado à abstenção municipal?
 
 ### Brancos e Nulos 
 
-11 - Quando a cédula de papel entrou em vigor? Como se votava antes? Impacto sobre invalidos
+11 - Quando a cédula de papel entrou em vigor? (Como se votava antes/ Impacto sobre  os votos invalidos)
+
 12 - Quando a urna eletrônica foi adotada? Quais foram os efeitos sobre os votos inválidos
+
 13 - Pq os votos inválidos são tão altos no Brasil?
+
 14 - Existe algum fator territorial associado aos  inválidos em âmbito municipal?
 
 

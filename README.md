@@ -3,8 +3,11 @@
 ### Direito de voto e expansão do eleitorado
 
 1 -  Pq os analfabetos levaram 100 anos para votar?
+
 2 -  Como se deu o processo de ampliação de mulheres no eleitorado?
+
 3 - Pq o voto obrigatório foi adotado? (o que mudou no tempo)?
+
 4 - Como o eleitorado cresceu ao longo do tempo?
 
 ### Comparecimento 
